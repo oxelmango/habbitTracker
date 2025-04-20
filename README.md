@@ -31,11 +31,28 @@ HabbitTracker uses a modern Android architecture:
 
 ## Screenshots
 
+### Light theme
+
 <table>
   <tr>
     <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen1.jpg?raw=true" width="180"/></td>
     <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen2.jpg?raw=true" width="180"/></td>
     <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen3.jpg?raw=true" width="180"/></td>
+  </tr>
+  <tr>
+    <td>Habit Calendar</td>
+    <td>Categories</td>
+    <td>Profile</td>
+  </tr>
+</table>
+
+### Dark theme
+
+<table>
+  <tr>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen1_dark.jpg?raw=true" width="180"/></td>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen2_dark.jpg?raw=true" width="180"/></td>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen3_dark.jpg?raw=true" width="180"/></td>
   </tr>
   <tr>
     <td>Habit Calendar</td>
@@ -92,7 +109,11 @@ app/src/main/java/com/magic/habbittracker/
 
 ## License
 
-See the LICENSE file for details
+See the LICENSE file for details (Apache License Version 2.0, January 2004)
+
+## Download
+
+Please go to the [RELEASE](https://github.com/oxelmango/habbitTracker/releases) section to download latest APK file(s)
 
 ## Acknowledgments
 
