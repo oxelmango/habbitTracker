@@ -2,7 +2,7 @@
 
 A modern, feature-rich habit tracking application built with Jetpack Compose and Material Design 3.
 
-![HabbitTracker](https://github.com/oxelmango/habbitTracker/raw/images/icon.png)
+![HabbitTracker](https://github.com/oxelmango/habbitTracker/blob/main/images/icon.png?raw=true)
 
 ## Features
 
@@ -33,9 +33,9 @@ HabbitTracker uses a modern Android architecture:
 
 <table>
   <tr>
-    <td><img src="https://github.com/oxelmango/habbitTracker/raw/images/screen1.png" width="180"/></td>
-    <td><img src="https://github.com/oxelmango/habbitTracker/raw/images/screen2.png" width="180"/></td>
-    <td><img src="https://github.com/oxelmango/habbitTracker/raw/images/screen3.png" width="180"/></td>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen1.jpg?raw=true" width="180"/></td>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen2.jpg?raw=true" width="180"/></td>
+    <td><img src="https://github.com/oxelmango/habbitTracker/blob/main/images/screen3.jpg?raw=true" width="180"/></td>
   </tr>
   <tr>
     <td>Habit Calendar</td>
